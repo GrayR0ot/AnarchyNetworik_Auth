@@ -1,4 +1,4 @@
-# AnarchyNetworik_Auth
+# AnarchyNetwork_Auth
 
 Plugin Bungeecord créé par Grayr0ot (TDK_DEV), pour l'exclusivité de AnarchyNetwork.
 
